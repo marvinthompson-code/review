@@ -1,0 +1,93 @@
+FRONT END DEVELOPMENT:
+
+AJAX - Asynchronous Javascript And XML 
+A set of web techniques where web apps can send data to and from a server in background (async) without any changes to the webpage for the user. Its used when you interact with a portion of a page and the entire page doesn't need to reload. 
+It combines JS, HTML, CSS and XMLHttpRequest Obj.
+
+CSS - Casading Style Sheets.
+Language of Rules that effect the styling of HTML content.
+
+HTML5 - Hypertext Markup Language 5.
+Newest iteration of HTML, a language that defines what structures exist on a webpage.
+
+HTTPS - Hypertext Transfer Protocol.
+The HTTPS denotes that the website is secure and all communications between your browser and the site are encrypted.
+
+JS - Javascript
+Programming Language that allows for complex and interactive webpage experiences. 
+
+JSON - Javascript Object Notation.
+Text, written in a minimal, text-only formay. It transmits data between a server and a web app. Similar to XML and is quicker to read, write, and can also be parsed by a normal javascript function.
+
+XML - Extensible Markup Language.
+XML carries data and explains what it is. It's a standalone object. Requires a seperate bit of code to reference it in order to display, recieve, send, or store it.
+
+BACK END DEVELOPMENT:
+
+REST - Representational State Transfer, similar to SOAP.
+Web service communication protocol.
+REST differs from SOAP in that it allows multiple data formats, where SOAP only allows XML. 
+REST is generally faster and uses less bandwidth.
+// http
+// making requests to servers, recieving responses from servers
+// anything that does this is considered Restful
+
+
+API - Application Programming Interface.
+It allows two tools to connect with each other. It includes details on how data is structured, and how objects/classes/methods are defined.
+
+CMS - Content Management System.
+A Software application or program that allows you to manage your online content without writing code. Any website that letsyou type and change the format of text with buttons utilizes CMS
+
+CRON - Command Run ON: aka CRONJOB
+Software devs yse cron to scedule an event that runs at a set time or interval. Think of an emailed update, or syncing to another program to maintain the correct time in an app.
+
+CRUD -
+Create, Read, Update, Delete.
+Basic app functions. Creating a new item, Reading existing items, updating existing items, and deleting items.
+Think MVP for facespace.
+
+FTP - File Transfer Protocol.
+This is a protocol designed for transferring files over the web from a client to a server. Commonly used to access a remote file on a network computer. Not used much anymore.
+
+LAMP - Linux, Apache, MySQL, PHP
+This is the original open-source software stack that future stacks were modeled after. Nowadays, lamp is used to describe other stacks that are modeled similarly, but doesn't necessarily contain those four tools.
+
+MVC - Model View Controller
+The Model View Controller is a design pattern. There is also a Framework of the same name, and frameworks come with opinions about design pattern.
+
+1) A design pattern is not a framework. A design pattern - a disciplineed approach to solving a code problem. Promotes clean code.
+
+2) A framework has specific dependencies that dictate when to use it. Can be more complicated and risky.
+
+At its core, the MVC design pattern is about a clean cut seperation of concerns. Clean code, make the solution intelligible.
+
+OAuth - Open Authentication.
+The industry standard protocol for Authorization. Authorization dictates who can access what in an application, which can refer to permission tiers in an application. Some users can access 10%, some 100%
+
+OOP - Object-Oriented-Programming
+Most comonly used progamming languages on the web are object oriented programming languages.
+OOP is based on objects (data), and their attributes, and how code interacts with these items.
+
+PHP - Personal Home Page, now PHP Hypertext Preprocessor
+
+RoR -
+
+SDK -
+
+SOAP -
+
+SQL -
+
+VCS -
+
+WYSIWYG -
+
+TESTING:
+
+QA -
+
+UAT -
+
+
+

@@ -1,0 +1,18 @@
+Pros and Cons of Vanilla JS vs React JS
+
+PROS:
+straightforward -
+
+Using vanilla Javascript to build an application that is small is okay, because the overall concern for speed doesn't factor in. Utilizing Dom Manipulation, or the process of either appending or interacting with elements on the HTML, or our DOM, and manipulating it would make this process straightforward for simple applications.
+
+Dom Manipulation definition - "The Document Object Model (DOM) is an application programming interface (API) for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated. ... The DOM is designed to be used with any programming language." 
+
+
+CONS:
+Speed/Flexibility -
+
+When building a large application however, using Vanilla JS/Dom Manipulation will make the app very slow, due to the constant actions of reaching over to the dom to either append or interact with the app.
+
+React is a library takes everything and puts it together, and components are written using javascript. The javascript code then generates the HTML and CSS, making the app incredibly fast. (Encapsulating all the logic in one thing!)
+
+React also uses something called a Virtual DOM, allowing your app to refresh instantly after recompiling/updating code. 
