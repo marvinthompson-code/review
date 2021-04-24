@@ -1,0 +1,7 @@
+Big O is the language and Metric we use to describe the efficiency of an algorithm.
+Without knowing this, you wont be able to judge whether or not your algorithm is getting faster or slower.
+
+We can describe the runtime of our algorithm in three ways:
+Best Case
+Worst Case
+Expected Case

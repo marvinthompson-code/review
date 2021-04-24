@@ -1,0 +1,41 @@
+1) Listen
+-Bottlenecks
+-Unnecessary Work
+-Duplicate work 
+
+2) Example
+-  should be specific
+-  sufficiently large 
+-  Not a special case scenario
+3) Brute Force
+// can be considered psuedocode
+BASIC PSUEDO// NO FULL SENTENCES
+// dont code yet
+// state a naive algorithm and runtime
+// ask questions
+// optitmize
+
+4) Optimize
+// look for any unused info 
+// solve it manually on an example, then reverse engineer it
+// break it and think  about how it fails 
+
+precompute Data
+is there any way you can reorganize the data tto save time in the long run?
+use a hash table 
+
+
+5) walkthrough
+// now that its optimized, walk through it fully before coding it out 
+
+6) implement
+// make your code sleek from the beginning
+// keep talking to interviewer
+// test as you go
+
+7) test
+// conceptual test
+// edge case test 
+// hot spots like arithmatic and null nodes 
+
+

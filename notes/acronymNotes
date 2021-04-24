@@ -28,9 +28,9 @@ REST - Representational State Transfer, similar to SOAP.
 Web service communication protocol.
 REST differs from SOAP in that it allows multiple data formats, where SOAP only allows XML. 
 REST is generally faster and uses less bandwidth.
-// http
-// making requests to servers, recieving responses from servers
-// anything that does this is considered Restful
+http
+making requests to servers, recieving responses from servers
+anything that does this is considered Restful
 
 
 API - Application Programming Interface.
